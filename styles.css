@@ -1,1 +1,29 @@
 /* Copy and paste your CSS from CodePen into here */
+body {
+    text-align:center;
+    background-color: aquamarine;
+}
+
+h1 {
+    color: blue ;
+}
+
+h1 {
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
